@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Kien
+🚀 About
 
-<!--
-**KienTB/KienTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a Backend Developer (Java Spring Boot)
+💡 Passionate about building scalable backend systems & APIs
+👯 Open to collaborate on backend projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Top Skills
+📋 Languages
+Java
+📚 Frameworks
+Spring Boot
+📦 Databases
+MySQL
+PostgreSQL
+Redis
+☁️ DevOps & Tools
+Docker
+Git (GitHub, GitLab)
+Postman
+📫 Contact
+Gmail: btkien141203@gmail.com
+📊 Coding Stats
+Top Languages: Java
